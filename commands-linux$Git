@@ -1,0 +1,43 @@
+GIT COMMANDS
+Git is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It is widely used by developers to manage their code repositories. It allows the developers to react their progress and the changes they have made to their code, they can even revert to previous versions and can collaborate with others on the same codebases. The commonly used Git commands are as follows:
+1.	git clone: 
+This command is used to used to point to an existing repo and then make a copy of that repo in a new directory.
+2.	git add: 
+This command is used to add changes in the working directory to the staging area. It basically tells the Git that you want to update the particular file. However, it does not really affect the repository until you commit the changes.
+3.	git commit:
+ This command is used to capture a screenshot of the projects currently staged changes and then it saves the changes.
+4.	git push: 
+This command is used to push committed changes to the remote repository.
+5.	git pull:
+ This command is used to fetch and merge changes from the local repository to the remote repository.
+6.	git branch:
+ This command is used to manage branches in the repository by allowing you to create, list, rename, and delete branches. Although it does not let you switch between branches.
+7.	git checkout: 
+This command is used to switch between branches or to revert to a previous version of the code. It is basically used for the navigating between the branches. It also updates all the files in the working directory to match the version stored in that branch.
+8.	git merge:
+ This command is used to combines all the multiple sequence of commits into one unified history. Most frequently it is used to combine two branches.
+9.	git status: 
+This command is used to check the states of the working directory and the staging area. It also shows the staged changes and the un-staged changes.
+10.	git log: 
+This command is used to display the history of the repository including the commits made in it.
+Linux COMMANDS
+Linux is the most popular open-source operating system used by many individuals and organizations. It has a command-line interface that allows users to interact with the system and perform various tasks. Here are some of the most commonly used Linux commands:
+ls: 
+This command is used to list the contents of a directory.
+cd:
+ 	This command is used to change the current working directory.
+pwd: 
+This command is used to display the current working directory.
+cp:
+ 	This command is used to copy files or directories.
+mv: 
+This command is used to move or rename files or directories.
+rm: 
+This command is used to remove files or directories.
+mkdir: 
+This command is used to create a new directory.
+touch: 
+This command is used to create a new empty file.
+echo:
+This command is used to display text on the screen.
+
